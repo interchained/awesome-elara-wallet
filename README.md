@@ -28,7 +28,7 @@ Real cryptography. Zero custody. On-device signing. A gold honeycomb interface t
 >
 > Read the full story in **[LORE.md](LORE.md)**.
 
-Elara Wallet Source Code: https://github.com/interchained/awesome-elara-wallet
+Elara Wallet Source Code: https://github.com/interchained/elara
 ---
 
 ## Table of Contents
